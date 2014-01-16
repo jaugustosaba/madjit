@@ -28,6 +28,7 @@ A complete implementation of a simple VM with code generation on the fly for int
 * implement if (yes, if statement is missing)
 * user register vm
 * implement bool
+* return statement only as last statement in procedure
 
 ## Files
 
